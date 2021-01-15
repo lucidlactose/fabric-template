@@ -1,9 +1,4 @@
-# Fabric Example Mod
+# BREAD MOD FOR MINECRAFT
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Installation and Setup
+This is a fabric mod. Check out the official fabric webpage on how to install fabric mods
