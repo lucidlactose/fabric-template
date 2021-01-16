@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "W  ",
+        "   ",
+        "   "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:bread"
+        }
+    },
+    "result": {
+        "item": "breadmod:sliced_bread",
+        "count": 5
+    }
+}
